@@ -1,0 +1,12 @@
+body {
+    background-image: url("../image/login.jfif");
+    background-size: cover;
+    background-position: center 0;
+}
+
+.form-login {
+    width: 100%;
+    max-width: 330px;
+    padding-top: 120px;
+    margin: 0 auto;
+}
